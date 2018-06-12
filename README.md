@@ -5,7 +5,6 @@
 </head>
 <body>
 	<p>Hello world!</p>
-	
-	This change is only for development.
+	'THIS IS ONLY FOR DEVELOPMENT'
 </body>
 </html>
